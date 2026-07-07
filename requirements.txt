@@ -1,0 +1,17 @@
+# utlities
+numpy
+pandas
+
+# face recogration
+scikit-learn
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+supabase    # for data base 
+bcrypt   # for passward encrepted
+
+segno     # qr gernation 
+pillow    # for image preprocessing
+
+streamlit   # for simple ui
