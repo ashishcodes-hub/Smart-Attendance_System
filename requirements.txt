@@ -1,3 +1,4 @@
+streamlit   # for simple ui
 # utlities
 numpy
 pandas
@@ -13,5 +14,4 @@ bcrypt   # for passward encrepted
 
 segno     # qr gernation 
 pillow    # for image preprocessing
-
-streamlit   # for simple ui
+  
